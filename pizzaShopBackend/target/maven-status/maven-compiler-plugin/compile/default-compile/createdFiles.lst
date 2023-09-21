@@ -1,0 +1,8 @@
+com/pizzashop/donates/PizzaShopApplication.class
+com/pizzashop/donates/model/PizzaSize.class
+com/pizzashop/donates/config/CorsConfig.class
+com/pizzashop/donates/service/PizzaService.class
+com/pizzashop/donates/model/Pizza.class
+com/pizzashop/donates/repository/PizzaOrderRepository.class
+com/pizzashop/donates/controller/OrderController.class
+com/pizzashop/donates/service/PizzaService$1.class
